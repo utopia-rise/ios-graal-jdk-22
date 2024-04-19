@@ -2,3 +2,7 @@
 	path = svm/graal
 	url = git@github.com:oracle/graal.git
 	branch = release/graal-vm/24.0
+[submodule "labs-openjdk/labs-openjdk-22"]
+	path = labs-openjdk/labs-openjdk-22
+	url = git@github.com:graalvm/labs-openjdk-22.git
+	branch = release/jvmci/24.0
