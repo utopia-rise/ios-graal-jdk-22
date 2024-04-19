@@ -1,0 +1,4 @@
+[submodule "svm/graal"]
+	path = svm/graal
+	url = git@github.com:oracle/graal.git
+	branch = release/graal-vm/24.0
