@@ -121,7 +121,7 @@
 				E9E27CDE2BD19516001C84DD /* jvmticmlr.h */,
 			);
 			name = include;
-			path = "labs-openjdk-22/build/labsjdk/jdk/include";
+			path = "../labs-openjdk/labs-openjdk-22/build/labsjdk/jdk/include";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
